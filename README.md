@@ -1,70 +1,19 @@
-# Getting Started with Create React App
+# Novo Garden - landscape architect's website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is my first website made commercially. I made it using HTML+CSS+JS + React framework. This is a one-page-website, as it is relatively small and does not need additional links.
 
-## Available Scripts
+## Responsiveness
 
-In the project directory, you can run:
+The page is suitable for being launched both on desktop and mobile devices. I worked hard especially for tailoring it up to iPhones, because of the common notch problems. The size of text and images change dinamically depending on the screen size. The website uses CSS Flex in order to dynamically sort images in the gallery and on main site. All of the links are opened in new tabs and contact buttons are active.
 
-### `npm start`
+## Colors and graphics
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The logo and photos I have used had been created by my customer. I chose the website's color palette to match the main theme. 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Frameworks
 
-### `npm test`
+The only external framework and component I have used is AOS (animation-on-scroll). I have been looking for a very long time for a perfect lightbox gallery, unable to find one I implemented my own. I am also proud of my solution allowing to add images to gallery automatically - the website displays all of the proper files from the Pictures directory
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Check it out
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Currently the website is deployed here: https://novogarden-d8d0e.web.app
