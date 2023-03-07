@@ -1,0 +1,33 @@
+#offerComponent  {
+    width: 80%;
+}
+.text {
+    font-size: 25px;
+    width: 80%;
+    margin: 25px auto;
+}
+
+#o1 {
+    border: 2px solid saddlebrown;
+    padding: 10px;
+    font-size: max(20px,min(3vw,32px));
+}
+
+#o1 h4 {
+    color: saddlebrown;
+}
+
+#o1 ul {
+    flex-direction: column;
+}
+
+
+@media screen and (max-width: 400px) {
+    #p1 h2 {
+        width: 85%;
+    }
+    #p1 img {
+        width: 85%;
+        margin-top: -30px;
+    }
+}
